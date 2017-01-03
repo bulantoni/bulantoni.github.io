@@ -144,7 +144,7 @@ var user = 'John', age = 25, message = 'Hello';
   **Данные слова не могут употребляться в качестве идентификаторов!*
 
 [break]:(https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/break)
-[case]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch  [catch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
+[case]:(https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch)  [catch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
 [continue]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/continue
   [debugger]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/debugger
   [default]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
