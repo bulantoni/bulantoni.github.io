@@ -1,0 +1,23 @@
+{
+    "plugins": [
+        "theme-default",
+        "ace",
+        "bootstrap-callout",
+        "bootstrap-callout2",
+        "build",
+        "custom-favicon",
+        "editlink",
+        "search-languages",
+        "theme-packt"
+    ],
+    "pluginsConfig": {
+        "build": {
+            "bin": "pandoc",
+            "args": "",
+            "opts": "[object Object]",
+            "template": "_layouts/main.md",
+            "output": "_book/main.md",
+            "format": "markdown"
+        }
+    }
+}
