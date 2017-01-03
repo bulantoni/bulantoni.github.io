@@ -143,34 +143,34 @@ var user = 'John', age = 25, message = 'Hello';
 
   **Данные слова не могут употребляться в качестве идентификаторов!*
 
-[break]:(https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/break)
-[case]:(https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch)  [catch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
+[break]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/break
+[case]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
+[catch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
 [continue]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/continue
-  [debugger]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/debugger
-  [default]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
-  [delete]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/delete
-  [do]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/do...while
-  [else]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/if...else
-  [finally]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
-  [for]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/for
-  [function]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/function
-  [if]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/if...else
-  [in]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/for...in
-  [instanceof]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/instanceof
-  [new]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/new
-  [return]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/return
-  [switch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
-  [this]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/this
-  [throw]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/throw
-  [try]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
-  [typeof]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/typeof
-  [var]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/var
-  [void]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/void
-  [while]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/while
-  [with]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/with
-  [export]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/export
-  [import]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/import
-
+[debugger]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/debugger
+[default]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
+[delete]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/delete
+[do]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/do...while
+[else]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/if...else
+[finally]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
+[for]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/for
+[function]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/function
+[if]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/if...else
+[in]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/for...in
+[instanceof]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/instanceof
+[new]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/new
+[return]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/return
+[switch]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/switch
+[this]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/this
+[throw]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/throw
+[try]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/try...catch
+[typeof]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/typeof
+[var]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/var
+[void]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Operators/void
+[while]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/while
+[with]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/with
+[export]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/export
+[import]:https://developer.mozilla.org/ru/docs/JavaScript/Reference/Statements/import
 ---
 
 
