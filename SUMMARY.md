@@ -14,7 +14,7 @@
 
   * [Числа](chisla.md)
 
-  * [Структура](stuktura.md)
+  * [Структура](struktura.md)
 
 * [Node.js](nodejs/nodejs.md)
 
