@@ -12,9 +12,9 @@
 
   * [Типы данных](chapter1/tipy_dannih.md)
 
-  * [Числа](chisla.md)
+  * [Числа](chapter1/chisla.md)
 
-  * [Структура](struktura.md)
+  * [Структура](chapter1/struktura.md)
 
 * [Node.js](nodejs/nodejs.md)
 
