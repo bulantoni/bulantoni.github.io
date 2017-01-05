@@ -4,11 +4,13 @@
 
 * [Начало](nachalo.md)
 
-* [Глава 1. Основы JS](chapter1.md)
-  
-  * [Современный стандарт](sovremenniy_standart.md)
+* [Глава 1. Основы JS](chapter1/chapter1.md)
 
-  * [Типы данных](tipy_dannyh.md)
+  * [Современный стандарт](chapter1/sovremenniy_standart.md)
+  
+  * [Переменные](chapter1/peremennie.md)
+  
+  * [Типы данных](chapter1/tipy_dannyh.md)
 
 * [Числа](chisla.md)
 
