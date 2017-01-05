@@ -12,8 +12,13 @@
 
   * [Типы данных](chapter1/tipy_dannih.md)
 
-* [Числа](chisla.md)
+  * [Числа](chisla.md)
+
+  * [Структура](stuktura.md)
 
 * [Node.js](nodejs/nodejs.md)
 
   * [Основы работы с модулями в Node.js](nodejs/osnovy-raboty-s-modulyami-nodejs.md)
+
+
+
