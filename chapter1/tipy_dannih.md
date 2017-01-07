@@ -7,6 +7,7 @@
 * [boolean]()
 * [null]()
 * [undefined]()
+* [object](объект)
 
     ...и новый тип ES6
     
