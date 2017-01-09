@@ -1,19 +1,9 @@
 {
     "plugins": [
         "theme-default",
-        "ace",
-        "bootstrap-callout",
-        "bootstrap-callout2",
-        "custom-favicon",
         "editlink",
         "search-languages",
-        "theme-packt",
-        "terminus",
-        "book-summary-scroll-position-saver",
-        "code-demo",
-        "codeblock",
-        "code-highlighter",
-        "code-editor"
+        "book-summary-scroll-position-saver"
     ],
     "pluginsConfig": {
         "build": {
