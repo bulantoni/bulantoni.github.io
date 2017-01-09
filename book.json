@@ -7,7 +7,8 @@
         "editlink",
         "book-summary-scroll-position-saver",
         "-fontsettings",
-        "-highlight"
+        "-highlight",
+        "customtheme"
     ],
     "pluginsConfig": {
         "editlink": {
