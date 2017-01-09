@@ -9,6 +9,24 @@ import /.../path from 'path';
 
 path.sep; //*win /*nix
 ```
+**Если мы хотим использовать файл как модуль:**
+
+```js
+// file: index.js
+
+import * as solution from './solution'; // * - импортируем всё
+                                       // as - как назовём
+solution.pi; // 3.14
+solution.square(4); // 16
+
+// file: solution.js
+
+export const pi = 3.14;
+
+export const square = (num) => {
+  return num * num;
+}
+```
 
 ## Дополнительные возможности
 
@@ -44,3 +62,15 @@ const func = () => {}
 export default func;
 ```
 Такая возможность нужна, например, если у нас функция используется внутри модуля, в том числе если она рекурсивная. При этом снаружи это имя никак не используется, любой экспорт по умолчанию импортируется под любым именем.
+
+```js
+// file: index.js
+import <name> from './<path>';
+
+<name>(4); // 64
+
+// file: <file>.js
+export default (num) => {
+  return num * num * num;
+}
+```
