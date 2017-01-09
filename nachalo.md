@@ -52,5 +52,5 @@ var circleArena =
 
 * Язык браузеров, что говорит о его кросплатформенности.
 
-
-[◁](SUMMARY.md "Оглавление") [](chapter1/chapter1.md "Глава 1")
+---
+[◁](SUMMARY.md "Оглавление") [▷](chapter1/chapter1.md "Глава 1")
