@@ -1,32 +1,25 @@
 {
+    "gitbook": "3.2.2",
     "plugins": [
+        "editlink",
+        "lunr",
         "theme-default",
         "editlink",
         "search-languages",
         "book-summary-scroll-position-saver"
     ],
     "pluginsConfig": {
-        "build": {
-            "bin": "pandoc",
-            "args": "",
-            "opts": "[object Object]",
-            "template": "_layouts/main.md",
-            "output": "_book/main.md",
-            "format": "markdown"
+        "editlink": {
+            "base": "https://github.com/bulantoni/litera-ecmascript/edit/master",
+            "label": {
+                "en": "Edit This Page"
+            }
         },
         "fontsettings": {
-            "theme": "night",
+            "theme": "white",
             "family": "sans",
             "size": 2
         },
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": true,
-            "vk": true,
-            "all": "facebook,google,twitter,weibo,instapaper,vk"
-        }
+
     }
 }
