@@ -2,11 +2,12 @@
     "gitbook": "3.2.2",
     "plugins": [
         "editlink",
-        "lunr",
-        "theme-default",
+        "-lunr",
+        "-theme-default",
         "editlink",
-        "search-languages",
-        "book-summary-scroll-position-saver"
+        "book-summary-scroll-position-saver",
+        "-fontsettings",
+        "-highlight"
     ],
     "pluginsConfig": {
         "editlink": {
@@ -20,6 +21,5 @@
             "family": "sans",
             "size": 2
         }
-
     }
 }
