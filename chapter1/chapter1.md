@@ -24,8 +24,7 @@
 
 ```html
 <h1 class="drink">Mocha Caffe Latte</h1>
-<p>Espresso, steamed milk and chocolate syrup,
-just the way you like it.</p>
+<p>Espresso, steamed milk and chocolate syrup, just the way you like it.</p>
 ```
 
 С **CSS** дело обстоит немного иначе. Разработчик пишет набор правил; каждое
@@ -41,6 +40,7 @@ just the way you like it.</p>
 h1.drink {
     color: brown;
 }
+
 p {
     font-family: sans-serif;
 }
@@ -72,5 +72,3 @@ if (age > 14) {
                                     так что сообщение не выводится).*/
 
 ```
-
----
