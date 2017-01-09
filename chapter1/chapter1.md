@@ -1,5 +1,4 @@
 # Глава 1
----
 
 * [Структура](chapter1/struktura.md)
   
