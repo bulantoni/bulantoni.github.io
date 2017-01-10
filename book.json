@@ -1,28 +1,35 @@
 {
-    "gitbook": "3.2.2",
-    "plugins": [
-        "theme-default",
-        "bootstrap-callout",
-        "bootstrap-callout2",
-        "build",
-        "codepen",
-        "custom-favicon",
-        "editlink",
-        "search-languages",
-        "theme-packt",
-        "ace",
-        "advanced-emoji",
-        "book-summary-scroll-position-saver",
-        "blog"
-    ],
-    "pluginsConfig": {
-        "build": {
-            "bin": "pandoc",
-            "args": "",
-            "opts": "[object Object]",
-            "template": "_layouts/main.tex",
-            "output": "_book/main.tex",
-            "format": "latex"
-        }
-    }
+"gitbook": "3.2.2",
+"plugins": [
+"theme-default",
+"bootstrap-callout",
+"bootstrap-callout2",
+"build",
+"codepen",
+"custom-favicon",
+"editlink",
+"search-languages",
+"theme-packt",
+"ace",
+"advanced-emoji",
+"book-summary-scroll-position-saver",
+"blog",
+"customtheme",
+"customheader",
+"fontsettings",
+"highlight",
+"lunr",
+"search",
+"sharing"
+],
+"pluginsConfig": {
+"build": {
+"bin": "pandoc",
+"args": "",
+"opts": "[object Object]",
+"template": "_layouts/main.tex",
+"output": "_book/main.tex",
+"format": "latex"
+}
+}
 }
