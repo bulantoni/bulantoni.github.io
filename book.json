@@ -13,7 +13,14 @@
         "ace",
         "advanced-emoji",
         "book-summary-scroll-position-saver",
-        "blog"
+        "blog",
+        "customtheme",
+        "customheader",
+        "fontsettings",
+        "highlight",
+        "lunr",
+        "search",
+        "sharing"
     ],
     "pluginsConfig": {
         "build": {
