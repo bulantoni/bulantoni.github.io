@@ -20,5 +20,14 @@
         "search",
         "sharing"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "build": {
+            "bin": "pandoc",
+            "args": "markdown",
+            "opts": "[object Object]",
+            "template": "_layouts/main.tex",
+            "output": "_book/main.tex",
+            "format": "latex"
+        }
+    }
 }
