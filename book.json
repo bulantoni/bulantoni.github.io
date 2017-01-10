@@ -2,12 +2,7 @@
     "gitbook": "3.2.2",
     "plugins": [
         "editlink",
-        "-lunr",
-        "-theme-default",
-        "editlink",
         "book-summary-scroll-position-saver",
-        "-fontsettings",
-        "-highlight",
         "customtheme"
     ],
     "pluginsConfig": {
@@ -16,6 +11,9 @@
             "label": {
                 "en": "Edit This Page"
             }
+        },
+        "customtheme": {
+            "css": ["styles/website.css"]
         },
         "fontsettings": {
             "theme": "white",
