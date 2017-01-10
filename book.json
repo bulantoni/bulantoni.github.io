@@ -2,8 +2,6 @@
     "gitbook": "3.2.2",
     "plugins": [
         "theme-default",
-        "ace",
-        "blog",
         "bootstrap-callout",
         "bootstrap-callout2",
         "build",
@@ -11,7 +9,11 @@
         "custom-favicon",
         "editlink",
         "search-languages",
-        "theme-packt"
+        "theme-packt",
+        "ace",
+        "advanced-emoji",
+        "book-summary-scroll-position-saver",
+        "blog"
     ],
     "pluginsConfig": {
         "build": {
