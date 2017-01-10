@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-customtheme",
+        "raw": "gitbook-plugin-customtheme@0.2.1",
+        "rawSpec": "0.2.1",
+        "scope": null,
+        "spec": "0.2.1",
+        "type": "version"
+      },
+      "/media/files/Projects/_myProjects/bulantoni/litera-ecmascript"
+    ]
+  ],
+  "_from": "gitbook-plugin-customtheme@0.2.1",
+  "_id": "gitbook-plugin-customtheme@0.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-customtheme",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "email": "krishnaof1988@gmail.com",
+    "name": "wallprodigy"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gitbook-plugin-customtheme",
+    "raw": "gitbook-plugin-customtheme@0.2.1",
+    "rawSpec": "0.2.1",
+    "scope": null,
+    "spec": "0.2.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-customtheme/-/gitbook-plugin-customtheme-0.2.1.tgz",
+  "_shasum": "eaefdac470cdbec43ee2cc09f021f92aa9559ad3",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-customtheme@0.2.1",
+  "_where": "/media/files/Projects/_myProjects/bulantoni/litera-ecmascript",
+  "author": {
+    "name": "Krishna"
+  },
+  "bugs": {
+    "url": "https://github.com/krishnaIndia/gitbook-plugin-customtheme/issues"
+  },
+  "dependencies": {},
+  "description": "Gitbook plugin for custom theming integration",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "eaefdac470cdbec43ee2cc09f021f92aa9559ad3",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-customtheme/-/gitbook-plugin-customtheme-0.2.1.tgz"
+  },
+  "engines": {
+    "gitbook": "*"
+  },
+  "gitHead": "ef60a9405fa7b16ef37574b45fde5ca1f88f0f32",
+  "homepage": "https://github.com/krishnaIndia/gitbook-plugin-customtheme",
+  "keywords": [
+    "Gitbook",
+    "plugin",
+    "custom theme"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "krishnaof1988@gmail.com",
+      "name": "wallprodigy"
+    }
+  ],
+  "name": "gitbook-plugin-customtheme",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaIndia/gitbook-plugin-customtheme.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}

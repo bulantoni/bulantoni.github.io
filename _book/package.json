@@ -1,0 +1,23 @@
+{
+  "name": "litera-ecmascript",
+  "version": "1.0.0",
+  "description": "Учусь программированию на языке JavaScript. Здесь систематизирую свою базу знаний.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-blog": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulantoni/litera-ecmascript.git"
+  },
+  "author": "Anton Bulgakov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bulantoni/litera-ecmascript/issues"
+  },
+  "homepage": "https://github.com/bulantoni/litera-ecmascript#readme"
+}
