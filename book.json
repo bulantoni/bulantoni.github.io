@@ -25,9 +25,9 @@
             "bin": "pandoc",
             "args": "",
             "opts": "[object Object]",
-            "template": "_layouts/main.tex",
-            "output": "_book/main.tex",
-            "format": "latex"
+            "template": "_layouts/main.md",
+            "output": "_book/main.md",
+            "format": "markdown"
         }
     }
 }
