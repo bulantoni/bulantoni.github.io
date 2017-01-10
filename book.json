@@ -1,23 +1,28 @@
 {
-    "gitbook": "3.2.2",
-    "plugins": [
-        "theme-default",
-        "bootstrap-callout",
-        "bootstrap-callout2",
-        "codepen",
-        "custom-favicon",
-        "editlink",
-        "search-languages",
-        "theme-packt",
-        "ace",
-        "advanced-emoji",
-        "book-summary-scroll-position-saver",
-        "customtheme",
-        "fontsettings",
-        "highlight",
-        "lunr",
-        "search",
-        "sharing"
-    ],
-    "pluginsConfig": {}
+"gitbook":"3.2.2",
+"plugins":[
+"theme-default",
+"bootstrap-callout",
+"bootstrap-callout2",
+"codepen",
+"custom-favicon",
+"editlink",
+"search-languages",
+"theme-packt",
+"ace",
+"advanced-emoji",
+"book-summary-scroll-position-saver",
+"customtheme",
+"fontsettings",
+"highlight",
+"lunr",
+"search",
+"sharing"
+],
+"pluginsConfig":{
+"edit-link":{
+"base":"https://github.com/bulantoni/litera-ecmascript/edit/master",
+"label":"Редактировать эту страницу..."
+}
+}
 }
