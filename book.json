@@ -20,14 +20,5 @@
         "search",
         "sharing"
     ],
-    "pluginsConfig": {
-        "build": {
-            "bin": "pandoc",
-            "args": "",
-            "opts": "[object Object]",
-            "template": "_layouts/main.md",
-            "output": "_book/main.md",
-            "format": "markdown"
-        }
-    }
+    "pluginsConfig": {}
 }
