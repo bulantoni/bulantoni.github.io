@@ -1,24 +1,26 @@
 {
     "gitbook": "3.2.2",
     "plugins": [
+        "theme-default",
+        "ace",
+        "blog",
+        "bootstrap-callout",
+        "bootstrap-callout2",
+        "build",
+        "codepen",
+        "custom-favicon",
         "editlink",
-        "book-summary-scroll-position-saver",
-        "customtheme"
+        "search-languages",
+        "theme-packt"
     ],
     "pluginsConfig": {
-        "editlink": {
-            "base": "https://github.com/bulantoni/litera-ecmascript/edit/master",
-            "label": {
-                "en": "Edit This Page"
-            }
-        },
-        "customtheme": {
-            "css": ["styles/website.css"]
-        },
-        "fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": 2
+        "build": {
+            "bin": "pandoc",
+            "args": "",
+            "opts": "[object Object]",
+            "template": "_layouts/main.tex",
+            "output": "_book/main.tex",
+            "format": "latex"
         }
     }
 }
