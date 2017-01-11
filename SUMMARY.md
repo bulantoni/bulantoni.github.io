@@ -17,7 +17,7 @@ Summary
 	
 	* [Функции](./README.md)
 	
-		* [Определение функции](./function.md)
+		* [Определение функции](./functions/function.md)
 	
 	* [Выражения](chapter1/expressions.md)
 	
