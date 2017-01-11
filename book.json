@@ -2,12 +2,8 @@
     "gitbook":"3.2.2",
     "plugins":[
         "theme-default",
-        "bootstrap-callout",
         "bootstrap-callout2",
-        "codepen",
-        "custom-favicon",
         "editlink",
-        "search-languages",
         "theme-packt",
         "ace",
         "advanced-emoji",
