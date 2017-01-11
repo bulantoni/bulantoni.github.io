@@ -1,5 +1,6 @@
 # Summary
 
+## Введение в JavaScript
 * [Вступление](README.md)
 * [Начало](nachalo.md)
 * [Глава 1. Основы JS](chapter1/chapter1.md)
