@@ -15,7 +15,9 @@ Summary
 	
 	* [Типы данных](chapter1/tipy_dannih.md)
 	
-	* [Функции](chapter1/function.md)
+	* [Функции](./README.md)
+	
+		* [Определение функции](./function.md)
 	
 	* [Выражения](chapter1/expressions.md)
 	
