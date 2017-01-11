@@ -1,8 +1,9 @@
 # Summary
 
-## Введение в JavaScript
 * [Вступление](README.md)
-* [Начало](nachalo.md)
+
+## Введение в JavaScript
+* [Предисловие](nachalo.md)
 * [Глава 1. Основы JS](chapter1/chapter1.md)
     * [Структура](chapter1/struktura.md)
     * [Строгий режим](chapter1/use_strict.md)
