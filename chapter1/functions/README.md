@@ -1,3 +1,3 @@
 # Функции JavaScript
 
-[Определение функции](./functions/function.md)
+[Определение функции](./function.md)
