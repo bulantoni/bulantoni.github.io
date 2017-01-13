@@ -17,7 +17,7 @@
     ],
     "pluginsConfig":{
         "editlink":{
-            "base":"https://github.com/bulantoni/litera-ecmascript/edit/master",
+            "base":"https://github.com/bulantoni/bulantoni.github.io/edit/master",
             "label":"Редактировать эту страницу..."
         }
     }
