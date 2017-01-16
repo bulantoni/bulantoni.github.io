@@ -21,8 +21,8 @@
             "label":"Редактировать эту страницу..."
         },
         "customtheme": {
-            "css": ['assets/css/syle.css'], // custom is a folder on the root level
-            "js": ['assets/js/scale.fix.js']
+            "css": ["assets/css/syle.css"],
+            "js": ["assets/js/scale.fix.js"]
         }
     }
 }
