@@ -52,8 +52,8 @@
 
 .highlight .ss { color: #90a959; }
 
-ines (333 sloc)  8.04 KB
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400i,700,700i);
+
 html {
   background: #6C7989;
   background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
@@ -67,7 +67,7 @@ html {
 body {
   padding: 50px 0;
   margin: 0;
-  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 'PT Sans', sans-serif;
   color: #555;
   font-weight: 300;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
@@ -126,6 +126,7 @@ header {
   padding: 15px 20px;
   border-bottom: 1px solid #B2D2E1;
 }
+
 header h1 {
   margin: 0;
   padding: 0;
@@ -134,27 +135,33 @@ header h1 {
   color: #069;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
 }
+
 header.without-description h1 {
   margin: 10px 0;
 }
+
 header p {
   margin: 0;
   color: #61778B;
   width: 300px;
   font-size: 13px;
 }
+
 header p.view {
   display: none;
   font-weight: 700;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
   -webkit-font-smoothing: antialiased;
 }
+
 header p.view a {
   color: #06c;
 }
+
 header p.view small {
   font-weight: 400;
 }
+
 header ul {
   margin: 0;
   padding: 0;
@@ -179,6 +186,7 @@ header ul {
   box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
   width: 240px;
 }
+
 header ul:before {
   content: '';
   position: absolute;
@@ -199,20 +207,24 @@ header ul:before {
   -o-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
   box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
 }
+
 header ul li {
   width: 79px;
   float: left;
   border-right: 1px solid #3A7CBE;
   height: 38px;
 }
+
 header ul li + li {
   width: 78px;
   border-left: 1px solid #8BBEF3;
 }
+
 header ul li + li + li {
   border-right: none;
   width: 79px;
 }
+
 header ul a {
   line-height: 1;
   font-size: 11px;
@@ -225,6 +237,7 @@ header ul a {
   height: 40px;
   text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 }
+
 header ul a strong {
   font-size: 14px;
   display: block;
@@ -288,11 +301,11 @@ blockquote {
 }
 
 img {
-  max-width:100%;
+  max-width: 100%;
 }
 
 code, pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: 'PT Mono', monospace;
   color: #333;
   font-size: 12px;
 }
@@ -302,11 +315,13 @@ pre {
   background: #3A3C42;
   color: #f8f8f2;
   margin: 0 -20px 20px;
-  overflow-x:auto;
+  overflow-x: auto;
 }
+
 pre code {
   color: #f8f8f2;
 }
+
 li pre {
   margin-left: -60px;
   padding-left: 60px;
@@ -350,13 +365,16 @@ footer {
   color: #ccc;
   overflow: hidden;
 }
+
 footer a {
   color: #fff;
   font-weight: bold;
 }
+
 footer p {
   float: left;
 }
+
 footer p + p {
   float: right;
 }
@@ -390,14 +408,17 @@ footer p + p {
     padding: 20px;
     width: auto;
   }
+
   footer p {
     float: none;
     margin: 0;
   }
+
   footer p + p {
     float: none;
   }
 }
+
 @media print, screen and (max-width:580px) {
   header ul {
     display: none;
@@ -411,6 +432,7 @@ footer p + p {
     width: 100%;
   }
 }
+
 @media print {
   header p.view a small:before {
     content: 'at http://github.com/';
