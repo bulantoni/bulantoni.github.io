@@ -21,7 +21,7 @@
             "label":"Редактировать эту страницу..."
         },
         "customtheme": {
-            "css": ["assets/css/syle.css"],
+            "css": ["assets/css/style.css"],
             "js": ["assets/js/scale.fix.js"]
         }
     }
