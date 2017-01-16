@@ -1,0 +1,9 @@
+{
+  "name": "bulantoni.github.io",
+  "version": "1.0.0",
+  "description": "Учусь программированию на языке JavaScript. Здесь систематизирую свою базу знаний.",
+  "main": "index.js",
+  "repository": "https://github.com/bulantoni/bulantoni.github.io.git",
+  "author": "Anton Bulgakov <antonbulgakov@hotmail.com>",
+  "license": "MIT"
+}
