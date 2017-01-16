@@ -19,6 +19,10 @@
         "editlink":{
             "base":"https://github.com/bulantoni/bulantoni.github.io/edit/master",
             "label":"Редактировать эту страницу..."
+        },
+        "customtheme": {
+            "css": ['assets/css/syle.css'], // custom is a folder on the root level
+            "js": ['assets/js/scale.fix.js']
         }
     }
 }
